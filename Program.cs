@@ -41,6 +41,7 @@ namespace Example
         static void Help()
         {
             Console.WriteLine("Usage: 1st argument time in minutes ...");
+            //test
         }
     }
 }
